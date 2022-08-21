@@ -7,6 +7,6 @@
 - DQL = Data Query Language.
 
 ## Principais comandos:
-** - DDL** = Create, Alter, Drop, Use.
-** - DML** = Insert Into, Update, Delete.
-** - DQL** = Select From, Inner Join, Left Join, Right Join, Order By.
+<br /> **DDL** = Create, Alter, Drop, Use.
+<br /> **DML** = Insert Into, Update, Delete.
+<br /> **DQL** = Select From, Inner Join, Left Join, Right Join, Order By.
